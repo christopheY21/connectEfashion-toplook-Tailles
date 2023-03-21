@@ -4,7 +4,7 @@ Efashion and toplook are 2 ecommerce website that wholesales clothes.
 
 They encoded their clothings sizes in differents formats.
 
-Efashion : 1S,2M,2L,1XL,1XXL
+Efashion : 1XS,2S,2M,1L
 
 Toplook : 1=XS+2=S+2=M+1=L
 
