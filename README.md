@@ -23,3 +23,11 @@ Parse tree for a toplook sizes.
 
 
 ### Usage
+1.launch ipynb
+(not much right now)
+### TODO
+realise a mapping between the 2 grammars
+
+
+### State 
+Convert toplook sizes ->  Efashion sizes.
