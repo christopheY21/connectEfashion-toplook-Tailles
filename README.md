@@ -17,6 +17,9 @@ We will use antlr4 for this project for multiple reasons.
 2 - more maintainable than regex
 
 3 - More reliable
+### Docs
+Parse tree for a toplook sizes.
+![antlr4_parse_tree](https://user-images.githubusercontent.com/92055719/226719915-45c8dd11-8f1f-4c9f-b16c-e1cefe3f4e78.png)
 
 
 ### Usage
